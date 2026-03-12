@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Clay Changelog</title>
+    <link>https://www.clay.com/changelog</link>
+    <description>Latest updates from Clay</description>
+    <atom:link href="https://raw.githubusercontent.com/britneyp-revenanas/rss-feeds/main/feeds/feed_clay_changelog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Mar 2026 18:33:27 +0000</lastBuildDate>
+    <item>
+      <title>Product Roundup 26.Q1.3</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;&lt;strong&gt;Sendoso Integration&lt;/strong&gt;: Send personalized gifts and create memorable moments with automated gifting workflows&lt;/p&gt;&lt;p&gt;&lt;strong&gt;BuyerCaddy Technographics&lt;/strong&gt;: A new technographics provider with over 90,000+ technologies and advanced comparison capabilities like verifying tech usage&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Increased Results for Find Contacts and Find Jobs&lt;/strong&gt;: Discover more prospects with a new data reduction option for improved search results&lt;/p&gt;&lt;p&gt;&lt;strong&gt;LinkedIn Monitoring Enhancement&lt;/strong&gt;: Monitor reactions and comments on LinkedIn posts with improved engagement tracking&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Twain Custom Variables&lt;/strong&gt;: Personalize outreach at scale with support for up to 10 custom variables&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Crunchbase API&lt;/strong&gt;: Key- Use your existing Crunchbase API Key directly within Clay for enhanced data access&lt;/p&gt;&lt;p&gt;&lt;strong&gt;FullEnrich Mobile Numbers&lt;/strong&gt;: Use Clay Credits to find mobile phone numbers using FullEnrich&lt;/p&gt;&lt;p&gt;&lt;strong&gt;CSV as a Source for Bulk Enrichment&lt;/strong&gt;: Enrich millions of rows from CSV uploads for enterprise-scale workflows&lt;/p&gt;&lt;p&gt;‍&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-bcdc1c2ebbff</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>You Asked, We Listened</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;ul&gt;&lt;li&gt;Better Table Interactions- Improved keyboard shortcuts, bulk copy/paste, pattern fill, and undo/redo functionality&lt;/li&gt;&lt;li&gt;Credit Spend Limits- Set spending caps on workbooks to prevent unexpected credit usage&lt;/li&gt;&lt;li&gt;Better Credit Warnings- See estimated credit costs before importing data into existing tables&lt;/li&gt;&lt;li&gt;Column Progress Bar- Visual breakdown of row completion status with success, running, and failed indicators&lt;/li&gt;&lt;li&gt;HTTP API as a Source- Import data from any API endpoint to create new tables for list building&lt;/li&gt;&lt;li&gt;HTTP API AI Autofill- Configure API enrichments using natural language instead of manual setup&lt;/li&gt;&lt;li&gt;Saved Searches- Save and reuse filter criteria for People, Companies, and Jobs sources&lt;/li&gt;&lt;li&gt;Resource Tagging- Organize workspaces, tables, and folders with custom labels and colors&lt;/li&gt;&lt;li&gt;Bulk Exclusions- Exclude up to 300,000 entities from searches using multiple sources&lt;/li&gt;&lt;li&gt;SOQL as a Source- Import Salesforce records directly using SOQL queries&lt;/li&gt;&lt;li&gt;Cell Size Limit Handling- Clearer warnings and suggestions when approaching data limits&lt;/li&gt;&lt;li&gt;Faster Enrichment Performance- 22x faster action runs and 10x faster AI processing&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;‍&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-c5ed076ab87f</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clay in Claude</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Bring Clay's contact databases, enrichment providers, and AI agents into your Claude workflow.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-3e3ec8ce4ab4</guid>
+      <category>Changelog</category>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product Roundup 26.Q1.1</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;ul&gt;&lt;li&gt;Clay in ChatGPT- Find people, enrich contacts, and draft emails directly in ChatGPT&lt;/li&gt;&lt;li&gt;HubSpot Sequencer- Enroll contacts into HubSpot sequences from Clay&lt;/li&gt;&lt;li&gt;Optional OAuth Scopes- Choose which object types to grant Clay access to&lt;/li&gt;&lt;li&gt;Default Credit Limits-Enterprise only:Set a workspace default credit limit that automatically applies to all new workbooks‍&lt;/li&gt;&lt;li&gt;Table Credit Usage Dashboard- Track credit usage by time, column, and run‍&lt;/li&gt;&lt;li&gt;Gemini 3 Pro- Google's most powerful AI model in Claygent and Use AI‍&lt;/li&gt;&lt;li&gt;Send Table Data- Enhanced replacement for Write to Table with column renaming and data merging‍&lt;/li&gt;&lt;li&gt;Batch Lookup by ID for Salesforce- Process up to 200 Salesforce lookups at once‍&lt;/li&gt;&lt;li&gt;Waterfalls + Templates Refresh- Save multiple waterfalls and column combinations in templates‍&lt;/li&gt;&lt;li&gt;Improvements to Colored Columns- Refreshed design with full-width colors&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">clay-changelog-0a11fc20d927</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product Roundup 25.Q4.4</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;&lt;strong&gt;Sumble Technographics:&lt;/strong&gt;: Verify company technology usage with live data sourced from job postings&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Gong Engage flow actions:&lt;/strong&gt;: Add and remove prospects from campaigns with per-prospect sequence customization&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Email Bison integration:&lt;/strong&gt;: Launch campaigns with isolated IP/domain infrastructure and premium deliverability&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Listmint email verification:&lt;/strong&gt;: Verify emails with detailed catch-all status beyond standard SMTP validation&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Microsoft Teams integration:&lt;/strong&gt;: Post HTML-formatted messages to channels with OAuth authentication&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Select column improvements:&lt;/strong&gt;: Auto-complete options from existing data and split into views with one click&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Exact keyword matching:&lt;/strong&gt;: Wrap phrases in quotes to search for exact terms in CPJ filters&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Credit rollover timing:&lt;/strong&gt;: View precise rollover schedule with transparency into exactly what time your credits reset&lt;/p&gt;&lt;p&gt;‍&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-1e38766710cc</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product roundup 25.Q4.3</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;ul&gt;&lt;li&gt;Bulk enrichment:Enrich millions of records at once without worrying about row limits&lt;/li&gt;&lt;li&gt;Web Intent:Company-level de-anonymization using multiple data providers in waterfall fashion&lt;/li&gt;&lt;li&gt;Google Slides image integration:Programmatically insert images into slide decks from URLs‍&lt;/li&gt;&lt;li&gt;Snov.ioactions:New enrichments for Find work email, Verify email, and Find company domain&lt;/li&gt;&lt;li&gt;HG Insights improvements:Select entire software categories instead of individual products&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">clay-changelog-220a11d6a30e</guid>
+      <category>Changelog</category>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product roundup 25.Q4.2</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;ul&gt;&lt;li&gt;Surfe EMEA data:Global data provider with 300M+ professional profiles and exceptional EMEA market coverage&lt;/li&gt;&lt;li&gt;Rox agent platform:AI-powered contact management platform to minimize manual CRM work and automate contact monitoring&lt;/li&gt;&lt;li&gt;Salesforge sequences:Email sequencing platform to push leads directly into automated outreach campaigns&lt;/li&gt;&lt;li&gt;TheirStack job data:Real-time job posting intelligence aggregated from 16,000+ sources for buying signal identification&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">clay-changelog-f43dca822278</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product roundup 25.Q3.5</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;ul&gt;&lt;li&gt;HG Insights Corporate Hierarchy:Comprehensive corporate structure insights for multi-threaded outreach strategies&lt;/li&gt;&lt;li&gt;Octave:Revolutionary workflow platform to redefine processes and amplify team productivity&lt;/li&gt;&lt;li&gt;Minerva Data Provider:Cost-effective professional profile enrichment with transparent credit pricing&lt;/li&gt;&lt;li&gt;Enrich Job Action:Extract valuable tech stack intelligence from job postings at no additional cost&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">clay-changelog-a8524763eb76</guid>
+      <category>Changelog</category>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product roundup 25.Q3.4</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;ul&gt;&lt;li&gt;Claygent NavigatorAI that doesn't just read but works the web - fills forms, applies filters, and navigates sites with vision capabilities inspired by OpenAI's Operator and GPT-5 reasoning, complete with step-by-step replay functionality&lt;/li&gt;&lt;li&gt;B2D Developer Profile DiscoveryBridge the gap between LinkedIn, GitHub, and Twitter to find top developers using specific technologies before your competitors do&lt;/li&gt;&lt;li&gt;Metaprompter-First AI ExperienceTransform natural language inputs into comprehensive prompts with automatic model selection and output field generation, now the default for Use AI columns&lt;/li&gt;&lt;li&gt;Credit Usage TransparencyTake control of your credit spend with import warnings and toggle auto-run actions off to eliminate accidental credit burns‍&lt;/li&gt;&lt;li&gt;Pubrio APAC EnrichmentsAccess high-quality Asia-Pacific data through seven new enrichments covering verified emails, phone numbers, open jobs, tech stacks, and more with local language support‍&lt;/li&gt;&lt;li&gt;Woodpecker Email SequencingManage prospects seamlessly with four new enrichment actions for campaign management, personalization tags, and AI-powered snippet generation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;‍&lt;/p&gt;&lt;p&gt;‍&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-05470cc9be90</guid>
+      <category>Changelog</category>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product roundup 25.Q3.3</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;ul&gt;&lt;li&gt;Icypeas Integration:Enrich person and company data faster and cheaper with six new powerful enrichment actions starting as low as 0.1 credits.&lt;/li&gt;&lt;li&gt;Aviato Integration:Unlock competitive insights on private companies and people with comprehensive financial and legal data.&lt;/li&gt;&lt;li&gt;Twain 3.0:Generate tailored outreach sequences in seconds using LinkedIn URLs or email addresses with AI-powered web scraping.&lt;/li&gt;&lt;li&gt;Bytemine Integration:Enrich contacts using email, LinkedIn, full names, or Facebook URLs with customizable data toggles.&lt;/li&gt;&lt;li&gt;Weekday Integration:Access personal contact data across 80% of India's workforce using LinkedIn profile URLs.&lt;/li&gt;&lt;li&gt;Autobound Integration:Generate personalized content with over 300 insights including news, growth trends, and social media mentions.&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">clay-changelog-d58d2a709637</guid>
+      <category>Changelog</category>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product roundup 25.Q3.2</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slack Approval Workflow for EnrichmentsEnable human-in-the-loop data enrichment pipelines with manual approval controls&lt;/li&gt;&lt;li&gt;AI-Augmented Company Data for Advanced SearchUse richer filters for smarter company targeting with enhanced business insights&lt;/li&gt;&lt;li&gt;Visual Workflow Builder for ClayPlan, build, and manage complex workflows with an intuitive visual interface&lt;/li&gt;&lt;li&gt;Funding Amount Filter in Company SearchQuickly find companies by total funding raised to target based on investment capital&lt;/li&gt;&lt;li&gt;Enhanced Usability UpdatesBoost productivity with a smoother, intuitive UI that streamlines daily workflows.&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">clay-changelog-5b04a076f383</guid>
+      <category>Changelog</category>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product roundup 25.Q3.1</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;ul&gt;&lt;li&gt;Natural Language Search for CompaniesFind companies using plain English descriptions instead of wrestling with complex filters&lt;/li&gt;&lt;li&gt;The Org IntegrationIdentify prospect managers and understand company hierarchies for strategic multi-threading&lt;/li&gt;&lt;li&gt;Ad Intel IntegrationPrioritize accounts based on advertising spend across Google, Meta, and LinkedIn&lt;/li&gt;&lt;li&gt;Identity Matrix IntegrationFind hashed personal emails and LinkedIn identities from work emails for improved ABM ad targeting&lt;/li&gt;&lt;li&gt;Credit Usage TransparencyImproved visibility into the cost of all downstream dependencies and column reruns&lt;/li&gt;&lt;li&gt;Serptat IntegrationGet reliable website traffic estimation using search volume data with consistent results across all domains&lt;/li&gt;&lt;li&gt;Enhanced LeadMagic IntegrationFind companies actively hiring with powerful filters for increased accuracy&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">clay-changelog-5e4f4f47f923</guid>
+      <category>Changelog</category>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product roundup 25.Q2.5</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;ul&gt;&lt;li&gt;Enhanced Semrush IntegrationFour new competitive intelligence actions including top pages, geographic traffic, traffic sources, and social media engagement analysis&lt;/li&gt;&lt;li&gt;Send table dataSend specific rows between tables for streamlined workflow management and data organization&lt;/li&gt;&lt;li&gt;Zeliq IntegrationAccess premium contact data specialized in EMEA market coverage for emails and phone numbers&lt;/li&gt;&lt;li&gt;Find professional profiles with Reverse ContactFind professional profiles with flexible pricing - one credit for basic data, three for comprehensive data&lt;/li&gt;&lt;li&gt;Find professional profiles with WizaDiscover professional profiles with for reliable results and to maximize your coverage&lt;/li&gt;&lt;li&gt;Use natural language to reference columnsCreate formulas using plain English column names without needing to reference the column directly&lt;/li&gt;&lt;li&gt;Column dependency warningsSmart deletion warnings show exactly which columns will be affected downstream&lt;/li&gt;&lt;li&gt;Scheduled source refreshRedesigned interface with granular column selection control for more flexible automation management&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">clay-changelog-14607c11cf39</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product roundup 25.Q2.4</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sandbox ModeTest and iterate on workflows without burning credits or affecting production data&lt;/li&gt;&lt;li&gt;Troubleshoot with AIGet instant AI-powered debugging and resolution steps for any workflow errors&lt;/li&gt;&lt;li&gt;Table-Aware SearchDiscover relevant enrichments with smart suggestions based on your existing table data&lt;/li&gt;&lt;li&gt;Dealroom Integration UpdatesAccess comprehensive investor data, company valuations, and funding intelligence&lt;/li&gt;&lt;li&gt;Waterfall PausingControl individual provider steps by toggling them on/off without losing your setup&lt;/li&gt;&lt;li&gt;Champify IntegrationFind professional profiles using work emails, personal emails, or name and company combinations&lt;/li&gt;&lt;li&gt;Crossbeam IntegrationDiscover which partners share relationships with your target companies for strategic co-selling&lt;/li&gt;&lt;li&gt;Forager IntegrationsAccess personal emails and professional profiles with strong APAC and EMEA coverage&lt;/li&gt;&lt;li&gt;Limadata IntegrationFind personal emails from LinkedIn profiles to maximize contact discovery success rates&lt;/li&gt;&lt;li&gt;Exellius IntegrationEnhanced APAC market coverage with specialized data for Japanese and Singaporean contacts&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">clay-changelog-76d8db14bcb5</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product roundup 25.Q2.3</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;ul&gt;&lt;li&gt;Trust Radius Integration‍Get real-time buying intent signals showing which companies are researching your solutions‍&lt;/li&gt;&lt;li&gt;‍Ocean IO People Lookalikes ‍ ‍‍Find similar prospects based on your best customers without complex filter rules‍&lt;/li&gt;&lt;li&gt;AI Semantic Search‍Discover the right integrations using natural language queries instead of exact keywords‍&lt;/li&gt;&lt;li&gt;AI Image Generation ‍ ‍‍Create custom images at scale for personalized outreach and marketing materials‍&lt;/li&gt;&lt;li&gt;Live Data Integration ‍‍Find professional profiles without requiring an email by triangulating multiple data points&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">clay-changelog-dad6bad5d843</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product roundup 25.Q2.2</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;ul&gt;&lt;li&gt;Google Slides integration ‍‍Create personalized slide decks programmatically using Clay data variables&lt;/li&gt;&lt;li&gt;ActiveCampaign integration ‍‍Automate customer journeys with lookup, create, update, and association actions&lt;/li&gt;&lt;li&gt;LeadIQ Value Prop Generator ‍‍Extract website positioning to create personalized outreach emails&lt;/li&gt;&lt;li&gt;Salesforce lead conversion ‍‍Automatically convert leads based on conditional triggers and signals&lt;/li&gt;&lt;li&gt;Redesigned homepage ‍‍Navigate your workspace faster with improved organization and folder management&lt;/li&gt;&lt;li&gt;Trestle Contact Verification ‍‍Verify contacts and validate phone numbers to improve connection rates&lt;/li&gt;&lt;li&gt;SMARTe Data Provider ‍‍Access comprehensive contact and company enrichment with four key actions&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">clay-changelog-8c0eaab3a7fe</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product roundup 25.Q2.1</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;ul&gt;&lt;li&gt;Signals hub &amp; wizards‍Track job changes, promotions, fundraising news and more in one place&lt;/li&gt;&lt;li&gt;Gong transcripts‍Extract call data and build creative automations with 100+ integration providers&lt;/li&gt;&lt;li&gt;LinkedIn APIMonitor brand mentions and analyze post engagement with LinkedIn's official API&lt;/li&gt;&lt;li&gt;Adbeat intelligence‍Discover competitor ad strategies across 80+ advertising networks&lt;/li&gt;&lt;li&gt;Upcell‍Enhanced mobile phone coverage for US and Canadian contact information&lt;/li&gt;&lt;li&gt;Marketo integration‍Create, update, and query Marketo objects directly from Clay&lt;/li&gt;&lt;li&gt;ContactOut enhancement‍Find social profiles from email addresses&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">clay-changelog-177b7f807aa2</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product roundup 25.Q1.5</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;ul&gt;&lt;li&gt;Webflow integrationCustom landing pages for your prospects at scale&lt;/li&gt;&lt;li&gt;Reddit monitoringSubreddit &amp; keyword monitoring&lt;/li&gt;&lt;li&gt;Oakie AI for public filingsAi Insights &amp; templates&lt;/li&gt;&lt;li&gt;Waterfall templatesSave, reuse, and reorder waterfall configurations&lt;/li&gt;&lt;li&gt;The Swarm for warm introsWarm intros through your network&lt;/li&gt;&lt;li&gt;AI previewsQuick meteprompter &amp; AI previews for fast iteration&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;‍&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-a63b4213eaf1</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product roundup 25.Q1.4</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;ul&gt;&lt;li&gt;Credit usage reportingCustom landing pages for your prospects at scale&lt;/li&gt;&lt;li&gt;X.com integrationSubreddit &amp; keyword monitoring&lt;/li&gt;&lt;li&gt;Flexible AI tokenClaude Sonnet 3.7 and Google's Gemini 2.0&lt;/li&gt;&lt;li&gt;Advanced model optionsSave, reuse, and reorder waterfall configurations&lt;/li&gt;&lt;li&gt;Enrichment enhancement on contacts from work emailsWarm intros through your network&lt;/li&gt;&lt;li&gt;Source instagram followersFind all accounts a profile follows&lt;/li&gt;&lt;li&gt;Improved company domain mappingQuickly connect to a domain&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">clay-changelog-f11b0a66afd9</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product roundup 25.Q1.3</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;ul&gt;&lt;li&gt;SchedulingScheduled sources &amp; columns for recurring lists &amp; enrichments&lt;/li&gt;&lt;li&gt;Group Column TemplatesGroup, reuse across Clay workspace‍&lt;/li&gt;&lt;li&gt;Enhanced MetaprompterSuggested output format &amp; model‍&lt;/li&gt;&lt;li&gt;Email from social profile waterfallPersonal emails from social platforms like instagram, TikTok, YouTube and more.‍&lt;/li&gt;&lt;li&gt;Trigify integration‍Social listening integration&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">clay-changelog-f73544053174</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Email waterfalls by company size, AI content generation with HeyGen, ElevenLabs, Captions and more!</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Introducing optimized work email waterfalls for SMB and enterprise companies, new AI content creation tools with HeyGen and ElevenLabs for avatar videos and voiceovers, enhanced video capabilities with Captions 2.0's custom backgrounds, and a critical V2 API migration for Instantly users. We've also redesigned our enrichment panel for easier discovery, and added powerful integrations with Za-zu for cold email sequencing, Firmable for Australian contact data, and Groove for revenue workflow automation.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-990e1ee92d32</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Similarweb integration, Loom transcripts, Bitly integration, improved company search, and more!</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Introducing website analytics with Similarweb integration, enhanced people search filtering across current and past roles, follower-based company discovery improvements, a new verified contact data provider with Better Contact, plus handy integrations with Loom for video transcripts and Bitly for link management. We've also streamlined the UI with improved AI feature access and table organization.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-97a83d47c7fe</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enhanced table exclusions, simplified email sequencers, Notion integration, Google Docs integration, and more!</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Introducing powerful table exclusion capabilities across company and people searches, a simplified sequencer export model supporting nine platforms, new integrations with Notion and Google Docs, natural language YouTube search, AI-assisted API configuration, and enhanced financial filings analysis.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-65602ab664b0</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HubSpot Integration Updates, YouTube Transcripts, Versium, Influencers Club, and More!</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Announcing our enhanced HubSpot integration, YouTube transcript extraction, new growth marketing tools with Versum, Influencers Club, and Brand Fetch, improved message drafting, color-coded columns, upgraded Twain sequences, and Full Enrich contact data enrichment.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-d98937bb8c14</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Find AI, Improved People Search, JSON Inputs, Weighted Round Robin, New Integrations, and more!</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Clay’s latest features include AI-powered natural language search with Find AI, improved job title and location search, weighted round robin lead distribution, data feedback options, job promotion signals, and new integrations with Influencer Club, Reply.io, Pipl, Wiza, and FullContact.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-8a2d80de7ea4</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metaprompter, shared workbooks, new hire signals, Outreach integration, and more!</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Clay’s latest features include AI-powered prompt creation, shared workbook templates, combined waterfall UI, new hire tracking, and the latest Outreach integration.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-02a01711ca57</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Round-robin lead enrichment</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;You can now fairly route companies or leads amongst your SDRs using Clay!&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-f002976d5fa0</guid>
+      <category>Changelog</category>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI action consolidation</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;We are aggregating the AI experience across Claygent, Anthropic, OpenAI, and Gemini into one single enrichment called “Use AI"!&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-ada8b673792d</guid>
+      <category>Changelog</category>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Re-order table views</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Quick update: you can now reorder your table views in Clay! Just drag and move them around to update.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-bdec25d0f02e</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Run individual rows</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;You can now (1) run individually selected rows and (2) get cost estimates! Just right click on the selected rows, or click "row actions" on the top right. Watch the video to learn more.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-2b0f463d8afe</guid>
+      <category>Changelog</category>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clay workbooks</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Workbooks allow you to manage Clay workflows that span multiple tables. You can organize multiple tables into a single workbook, and visualize the relationships across these tables in the overview page.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-61d142504fd1</guid>
+      <category>Changelog</category>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Custom waterfalls</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Create your own waterfalls to conditionally run any set of enrichments.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-2b9eefdb8816</guid>
+      <category>Changelog</category>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Global Navigation</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;We're excited to introduce a refreshed global navigation bar at the top of your Clay workspace. With this new navigation, you can:&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-96bb1c2839fa</guid>
+      <category>Changelog</category>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claygent Neon</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Six months ago, our team introduced Claygent, an AI web researcher, to the world. We have been amazed by the creative ways our community has used Claygent for a wide range of research applications, helping teams accomplish tasks that used to take hours of manual work in minutes.&lt;/p&gt;&lt;p&gt;With Claygent, our goal was to help users go beyond the limitations of traditional data providers, turning the entire internet into their canvas for prospecting and go-to-market research.&lt;/p&gt;&lt;p&gt;Today, we are thrilled to announce the next evolution of Claygent: Neon. Read more about it below, or watch thisvideofor a live demo and walkthrough!&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-52ba5bd1fd3a</guid>
+      <category>Changelog</category>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Find Employee Headcount by Country</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;You can search companies by their LinkedIn URL, domain, SalesNav URL, or SalesNav ID. There’s also over 10+ ways to filter your headcount including department, title, years of experience, location, education, and more!&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-801b06260c04</guid>
+      <category>Changelog</category>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improved Google Maps source</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;To enable this, turn on the Preferred Google API toggle in the Google Maps source. This costs 1 credit per result. If you prefer not to use any credits, you can turn this toggle off and use the old version of this source, which is still free and still limited to 200 sparser results.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-860e481bb704</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LeadMagic Mobile Number Finder</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;You can now use LeadMagic to find mobile numbers, find work emails, and validate emails! Find it in the enrichment panel, or in the mobile number and work email waterfalls.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-a44a35551be2</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Magic Column</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Hello beautiful Clay people! We're very excited to announce the full release of a new feature colloquially known as "Magic Column"!&lt;/p&gt;&lt;p&gt;Magic Column is a new way to access enrichments! Simply type in a description of the type of data you're looking for and press the button! A relevant enrichment will (hopefully) show up. This feature is still a work in progress. We've added a feedback banner to the enrichments that are shown through Magic Column, receiving feedback is key to improving the results!&lt;/p&gt;&lt;p&gt;Looking forward to seeing what results everyone searches up, and we'll be working diligently to improve the feature as feedback comes in. Happy searching + enriching!&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-84485a3df87d</guid>
+      <category>Changelog</category>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Workflows</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Hi folks!&lt;/p&gt;&lt;p&gt;Workflows help you manage end to end GTM pipelines, directly within Clay. They are designed to help guide you through, and streamline your prospecting efforts.&lt;/p&gt;&lt;p&gt;You can create your first Workflow in the Clay homepage.&lt;/p&gt;&lt;p&gt;With this initial release, we are supporting three primary Workflows:&lt;/p&gt;&lt;p&gt;1. Cold outreach to people2. Cold outreach to people at companies3. CRM enrichment&lt;/p&gt;&lt;p&gt;Keep posted! New updates to Workflows are in progress as we speak 🤠&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-a4224ddce510</guid>
+      <category>Changelog</category>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New RSS Feed reader source</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;RSS Feeds are an easy way to stay up to date with your favorite websites, such as blogs or online magazines. If a site offers an RSS feed, now you can get the feed data directly populated in a Clay table (updated every hour)! There’s a lot of neat things you can do here such a using AI to write summaries, or filtering articles relevant to topics/trends, and much more!&lt;/p&gt;&lt;p&gt;Learn more about setting up the source yourself below 🙊&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-969e89b5954c</guid>
+      <category>Changelog</category>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New self-serve annual plans</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Exciting news! Sign up to get a year's worth of credits upfront, with a 10% discount! 👽&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-fd5eeeed2a16</guid>
+      <category>Changelog</category>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Editable Waterfalls</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;PSA: Waterfalls are now editable!!!&lt;/p&gt;&lt;p&gt;We’ve all been there. You ran a waterfall to check the results, and then after checking the results, realized you wanted to reorder, add, or remove providers and rerun … only to realize you just had to recreate the whole waterfall.&lt;/p&gt;&lt;p&gt;NO LONGER!&lt;/p&gt;&lt;p&gt;Now, you can now edit any waterfall (to add, remove, or replace providers/ validation providers) and re-run the same one instead! Just click on the waterfall result column and then “Edit Column”! Here's a video with a full walkthrough. Quick note: all provider columns will now be hidden by default but you can use the "Hide Providers" toggle to turn this off on initial setup or subsequent editing!&lt;/p&gt;&lt;p&gt;P.S - You can now also delete an entire waterfall by just deleting the result field too.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-536d37ac35ac</guid>
+      <category>Changelog</category>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini Integration</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Releasing the integration of Google Gemini. You can now use Google's LLM chat model to generate responses, emails, and text in Clay.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-98c603476a53</guid>
+      <category>Changelog</category>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic Claude Integration</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Releasing the integration of Anthropic's Claude AI. You can now use the Claude AI chat model to generate responses, emails, and text in Clay.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-4cb2bd751590</guid>
+      <category>Changelog</category>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Semantic Search in the Enrichments Panel</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Adding the ability for improved search results in the Enrichments Panel. The search is now powered by a combination of Lexical (keyword) and Semantic Search. This allows for longer form search queries to be entered into the search input bar.&lt;/p&gt;&lt;p&gt;The results aren't perfect, but that's where you (the users) come in! I've added the ability to provide feedback on each of the rows listed in the search results. To make searching for enrichments better, it would greatly help us if everyone would 1) try typing in queries longer than 2 words and 2) click on the "thumbs up" or "thumbs down" buttons to give feedback on your satisfaction with the results being shown. Looking forward to seeing what all queries everyone types in, thanks!&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-a5d684a01f49</guid>
+      <category>Changelog</category>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exciting news! In-platform referrals for all workspaces</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Users will now have in-platform referrals enabled for all of their workspaces. You now have access to a unique referral link through each of your workspaces. When a new user signs up with this referral link and activates a paid account with Clay, both the referrer and the referred user will automatically receive3,000 creditstowards their respective workspace credit balances.&lt;/p&gt;&lt;p&gt;Users will be able to track their referral history and credits earned for each workspace in their workspace settings, under a new 'Referrals' tab 🥳&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-dcee5e6a7a3c</guid>
+      <category>Changelog</category>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Auto-dedupe</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Configure your table such that duplicates records are automatically deleted. This will help keep the data in your table clean while also reducing spend on accidentally enriching the same record twice!&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-698f6b6a7ce2</guid>
+      <category>Changelog</category>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automate LinkedIn messages with La Growth Machine</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Once you've set up a LinkedIn message campaign and an audience in La Growth Machine, you can send leads from Clay to an LGM audience using the Create Lead LGM action. You can pass LGM up to 10 custom attributes per lead, so you can personalize the message you send them. You can also look up a lead in LGM from Clay with the Search Lead action.You'll find these two actions in the enrichment panel. One thing to watch out for - La Growth Machine only accepts strings as custom attributes, not numbers, booleans, or any other data type.Check out the video to see it in action. Let us know if you have any questions!&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-7f6afd53e0a1</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Increases in Clay's Find People Searches</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;There's abigupgrade to Clay's people search. We've bumped all of the search limitations to the following:- 2,500 profiles for the Free plan- 5,000 profiles for the Starter plan- 25,000 profiles for the Explorer plan- 50,000 profiles for the Pro plan&lt;/p&gt;&lt;p&gt;Happy people finding ❤️&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-1833368bef9d</guid>
+      <category>Changelog</category>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Get suggested enrichments for your tables</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Now Clay will suggest useful and common enrichments that you can add to your table based on existing columns. Right now only 15 of the top enrichments can be suggested, but we'll be continuously adding more and more 😊&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-eea61484f6d9</guid>
+      <category>Changelog</category>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pull in data from any actor with Apify</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Clay's new Apify source can pull in data from any specified actor run or just the latest actor run. You can use it to simplify your workflows by eliminating the need to use Make.com as an intermediary tool to get Apify data into Clay.&lt;/p&gt;&lt;p&gt;You can find it in the Source Modal under "other". One thing to note is that if you'd like your table to automatically updated with all data from subsequent future runs from an actor, you shouldn't specify a particular run as an input. Learn more here 👇&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-2268fc71d434</guid>
+      <category>Changelog</category>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Get more website data with Semrush's Get Traffic Analytics</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;You can now get information like users, visits, traffic rate, and bounce rate for a URL. Better yet- break down these results by device type, channel, and paid vs organic.&lt;/p&gt;&lt;p&gt;We support domains, subdomains, and subfolders; you can get specific results for app.mywebsite.com or mywebsite.com/blog 🤯&lt;/p&gt;&lt;p&gt;Try the Semrush enrichment out by adding it from the enrichments panel. Check out this wonderful video to see it in action 👊&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-ecffd15ad368</guid>
+      <category>Changelog</category>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Find more data with Clay's new enrichment search UI</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;The Enrichments Panel has a new and improved UI! It's drastically different than the old UI, with the aim being to better surface what enrichments are available in the product.The new Enrichments Panel contains different subsections, categorized to make it easier for users to find what they need. The idea behind the change was to explicitly surface "what" is possible in the product in the first view. Upon clicking a card / pill in the first view, options are provided to show "how" a user can complete their desired task. Attributes, Integrations, Recipes, and Providers are all present in the new panel (hopefully in a way that makes using them easier and more obvious). The same search panel UI still exists, with a search bar near the top of the panel.The panel can be accessed via the "Enrich Data" button in the top right corner of a table, or via the "Add Column" button on the right most column of each table.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-452ecf4c1ca3</guid>
+      <category>Changelog</category>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>More Salesforce records</title>
+      <link>https://www.clay.com/changelog</link>
+      <description>&lt;p&gt;Now, when you start a table with records from Salesforce, you're no longer limited to 2000 records!&lt;/p&gt;&lt;p&gt;The only exception for this is when you're creating a Clay table from a SOQL-incompatible Salesforce view, in which case you're still limited to 2000 records. SOQL-incompatible views are relatively rare.&lt;/p&gt;&lt;p&gt;For more details on them, check out this in-depth discussion linked below.&lt;/p&gt;</description>
+      <guid isPermaLink="false">clay-changelog-8fbee69077a4</guid>
+      <category>Changelog</category>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
